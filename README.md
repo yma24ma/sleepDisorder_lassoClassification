@@ -1,7 +1,8 @@
 # Predicting Sleep Disorders Using Health and Lifestyle Data with LASSO Logistic Regression
 
 This project uses LASSO Logistic Regression to predict whether an individual is likely to suffer from a sleep disorder based on various health and lifestyle factors. By leveraging penalized logistic modeling and cross-validation, we identify the most relevant predictors and evaluate model performance using ROC and AUC metrics.
-This project was completed as part of the **STAT301 (Statistical Modeling for Data Science)** course at **The University of British Columbia.
+This project was completed as part of the STAT301 (Statistical Modeling for Data Science) course at The University of British Columbia.
+
 ---
 
 ## Tools & Technologies
@@ -40,7 +41,7 @@ This project was completed as part of the **STAT301 (Statistical Modeling for Da
 
 | Metric | Score   |
 |--------|---------|
-| AUC    | **0.9553** ✅ |
+| AUC    | **0.9553**  |
 
 > AUC of 0.9553 indicates excellent predictive performance and strong ability to distinguish between those with and without sleep disorders.
 
@@ -48,7 +49,7 @@ This project was completed as part of the **STAT301 (Statistical Modeling for Da
 
 ## Output
 
-![ROC Curve for LASSO Model](insert-your-roc-image-link-here)
+![ROC](https://github.com/user-attachments/assets/245a39d5-af0d-460e-a76b-1dac7a8eb36b)
 
 ---
 
