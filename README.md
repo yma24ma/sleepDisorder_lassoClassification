@@ -39,6 +39,8 @@ This project was completed as part of the STAT301 (Statistical Modeling for Data
 
 ## Model Performance
 
+![ROC](https://github.com/user-attachments/assets/245a39d5-af0d-460e-a76b-1dac7a8eb36b)
+
 | Metric | Score   |
 |--------|---------|
 | AUC    | **0.9553**  |
@@ -47,11 +49,6 @@ This project was completed as part of the STAT301 (Statistical Modeling for Data
 
 ---
 
-## Output
-
-![ROC](https://github.com/user-attachments/assets/245a39d5-af0d-460e-a76b-1dac7a8eb36b)
-
----
 
 ## Limitations and Future Improvements
 
