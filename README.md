@@ -54,7 +54,7 @@ This project was completed as part of the STAT301 (Statistical Modeling for Data
 
 While the model performed strongly, there are limitations and areas for future research:
 
-- **Small sample size**: Limits model generalizability and reduces the statistical power
+- **Moderate sample size**: While 374 observations is sufficient for logistic regression, a larger dataset could enhance generalizability and model robustness
 - **Variable exclusion**: Stress level, sleep duration, and physical activity were not retained due to potential multicollinearity or data sparsity
 - **Imbalanced categories**: Low representation of “obese” may have impacted LASSO’s ability to retain it
 - **Model bias**: LASSO introduces bias by shrinking coefficients
